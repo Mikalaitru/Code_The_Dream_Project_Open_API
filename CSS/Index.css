@@ -1,8 +1,18 @@
 
 body {
-    font-family: Arial, sans-serif;
-    padding: 20px;
-    background-color: #e75f03;
+    background-image: url(Img/sky.jpg); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
+    font-family: Arial, sans-serif; 
+    color: rgb(5, 5, 5); 
+    text-align: center;
+}
+ul {
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
 }
 
 h1 {
